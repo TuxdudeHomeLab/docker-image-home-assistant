@@ -1,7 +1,7 @@
 BASE_IMAGE_NAME=tuxdude/homelab-base
-BASE_IMAGE_TAG=master
+BASE_IMAGE_TAG=0.1.1-bullseye-20220822-slim
 WHEELS_IMAGE_NAME=tuxdude/homelab-home-assistant-wheels
-WHEELS_IMAGE_TAG=master
+WHEELS_IMAGE_TAG=0.1.2-ha-2022.9.1
 USER_NAME=hass
 GROUP_NAME=hass
 USER_ID=16004
