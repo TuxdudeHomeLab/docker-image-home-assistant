@@ -1,7 +1,7 @@
 BASE_IMAGE_NAME=tuxdude/homelab-python-base
-BASE_IMAGE_TAG=master
+BASE_IMAGE_TAG=0.2.7-bookworm-20240423-slim-python-3.12.2
 WHEELS_IMAGE_NAME=tuxdude/homelab-home-assistant-wheels
-WHEELS_IMAGE_TAG=master
+WHEELS_IMAGE_TAG=0.1.4-ha-2024.5.1
 USER_NAME=hass
 GROUP_NAME=hass
 USER_ID=16004
